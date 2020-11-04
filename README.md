@@ -1,0 +1,1 @@
+Base image for vue projects in Tracsa Servicio.
